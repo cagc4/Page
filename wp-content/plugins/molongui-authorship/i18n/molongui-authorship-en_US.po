@@ -1,0 +1,1788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Molongui Authorship\n"
+"POT-Creation-Date: 2016-09-12 11:32+0100\n"
+"PO-Revision-Date: 2016-09-12 11:32+0100\n"
+"Last-Translator: Amitzy <molongui@amitzy.com>\n"
+"Language-Team: Amitzy <molongui@amitzy.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: molongui-authorship.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-plugin-admin.php:280
+#, php-format
+msgid ""
+"There is a premium version of this plugin. Grab a %spremium licence%s to "
+"unlock all features and have direct support."
+msgstr ""
+
+#: admin/class-plugin-admin.php:348
+#, php-format
+msgid ""
+"Molongui Authorship license has not been activated, so the plugin is "
+"inactive! %sClick here%s to activate the license key and\n"
+"\t\t\t\t\tthe plugin."
+msgstr ""
+
+#: admin/class-plugin-admin.php:372
+#, php-format
+msgid ""
+"If you like <strong>Molongui Authorship</strong> please leave us a %s&#9733;"
+"&#9733;&#9733;&#9733;&#9733;%s rating. A huge thank you from Molongui in "
+"advance!"
+msgstr ""
+
+#: admin/class-plugin-admin.php:372
+msgid "Thanks :)"
+msgstr ""
+
+#: admin/class-plugin-admin.php:388
+msgid "Settings"
+msgstr ""
+
+#: admin/class-plugin-admin.php:389 admin/views/html-admin-page-about.php:68
+msgid "Docs"
+msgstr ""
+
+#: admin/class-plugin-admin.php:394
+msgid "Go Premium"
+msgstr ""
+
+#: admin/class-plugin-admin.php:579
+#, php-format
+msgid ""
+"%sPremium setting%s. You are using the free version of this plugin, so "
+"changing this setting will have no effect and default value will be used. "
+"Consider purchasing the %sPremium Version%s."
+msgstr ""
+
+#: admin/class-plugin-admin.php:585
+#, php-format
+msgid ""
+"%sPremium setting%s. You are using the free version of this plugin, so "
+"selecting any option marked as \"PREMIUM\" will have no effect and default "
+"value will be used. Consider purchasing the %sPremium Version%s."
+msgstr ""
+
+#: admin/class-plugin-admin.php:643
+msgid "Plugin activated. "
+msgstr ""
+
+#: admin/class-plugin-admin.php:650
+msgid "Connection failed to the License Key API server. Try again later."
+msgstr ""
+
+#: admin/class-plugin-admin.php:721
+msgid ""
+"The license could not be\n"
+"\t\tdeactivated. Use the License Deactivation tab to manually deactivate the "
+"license before activating a new\n"
+"\t\tlicense."
+msgstr ""
+
+#: admin/class-plugin-admin.php:772
+#, php-format
+msgid "Your license has been deactivated. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:781
+msgid "UNDEFINED ERROR. Please, try again or contact Molongui"
+msgstr ""
+
+#: admin/class-plugin-admin.php:787
+#, php-format
+msgid "EMAIL ERROR: %s. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:790
+#, php-format
+msgid "KEY ERROR: %s. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:793
+#, php-format
+msgid "PURCHASE INCOMPLETE ERROR: %s. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:796
+#, php-format
+msgid "EXEEDED ERROR: %s. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:799
+#, php-format
+msgid "KEY NOT ACTIVATED ERROR: %s. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:802
+#, php-format
+msgid "INVALID KEY ERROR: %s. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:805
+#, php-format
+msgid "NOT ACTIVE ERROR: %s. %s"
+msgstr ""
+
+#: admin/class-plugin-admin.php:831
+msgid "There is no active license to deactivate..."
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:25
+msgid "by"
+msgstr ""
+
+#. Author of the plugin/theme
+#: admin/views/html-admin-page-about.php:25
+msgid "Amitzy"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:33
+msgid "Plugin information"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:38 includes/class-guest-author.php:52
+msgid "Name"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:42 config/admin-settings.php:1629
+msgid "License"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:43
+#: includes/class-custom-profile.php:142 includes/class-custom-profile.php:191
+#: includes/class-custom-profile.php:205
+msgid "Premium"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:43
+#: admin/views/html-admin-page-upsells.php:35
+#: admin/views/html-admin-page-upsells.php:53
+msgid "Free"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:46
+msgid "Version"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:50
+#: includes/class-guest-author.php:207 includes/class-guest-author.php:285
+#: includes/class-guest-author.php:389
+msgid "Author"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:52
+#, php-format
+msgid "%1$sMolongui%2$s"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:61
+msgid "Upgrade"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:64
+msgid "Upgrade now"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:71
+msgid "Check documentation"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:83
+msgid "Rate"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:83
+msgid "Feedback"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:90
+msgid ""
+"We are constantly looking for ways to improve the quality of our products "
+"and services. How you rate our product and service is the most important "
+"information we can obtain to support our goal."
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:94
+msgid ""
+"We would really appreciate it if you would take a second to rate this plugin "
+"at the official directory of Wordpress plugins. A huge thank you from "
+"Molongui in advance!"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:98
+msgid "Rate this plugin"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:102
+msgid ""
+"We would really appreciate any feedback you would like to send us. A huge "
+"thank you from Molongui in advance!"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:106
+msgid "Send feedback"
+msgstr ""
+
+#: admin/views/html-admin-page-about.php:122
+#, php-format
+msgid "Molongui is a trademark of %1$s Amitzy%2$s."
+msgstr ""
+
+#: admin/views/html-admin-page-support.php:25
+msgid "System information"
+msgstr ""
+
+#: admin/views/html-admin-page-support.php:27
+msgid ""
+"This page displays information about your WordPress configuration and Server "
+"information that may be useful for debugging."
+msgstr ""
+
+#: admin/views/html-admin-page-support.php:31
+msgid ""
+"To copy the System Status, click below then press Ctrl + C (PC) or Cmd + C "
+"(Mac)."
+msgstr ""
+
+#: admin/views/html-admin-page-support.php:36
+msgid "Download report as text file"
+msgstr ""
+
+#: admin/views/html-admin-page-support.php:37
+msgid "Send report to Molongui"
+msgstr ""
+
+#: admin/views/html-admin-page-upsells.php:26
+msgid ""
+"As part of our ongoing effort to provide high quality, eye-catching "
+"Wordpress plugins, here you have some you might find useful for your site:"
+msgstr ""
+
+#: config/admin-settings.php:175
+msgid "Main"
+msgstr ""
+
+#: config/admin-settings.php:182 config/admin-settings.php:1616
+#: public/views/html-tabbed-author-box.php:37
+msgid "Related posts"
+msgstr ""
+
+#: config/admin-settings.php:190
+msgid "Show related posts"
+msgstr ""
+
+#: config/admin-settings.php:192
+msgid "Whether to show related posts from author on the authorship box."
+msgstr ""
+
+#: config/admin-settings.php:200 config/admin-settings.php:354
+#: config/admin-settings.php:580 config/admin-settings.php:614
+#: config/admin-settings.php:638 config/admin-settings.php:662
+#: config/admin-settings.php:742 config/admin-settings.php:766
+#: config/admin-settings.php:871 config/admin-settings.php:1359
+#: config/admin-settings.php:1691
+msgid "Yes"
+msgstr ""
+
+#: config/admin-settings.php:206 config/admin-settings.php:360
+#: config/admin-settings.php:586 config/admin-settings.php:620
+#: config/admin-settings.php:644 config/admin-settings.php:668
+#: config/admin-settings.php:748 config/admin-settings.php:772
+#: config/admin-settings.php:877 config/admin-settings.php:1365
+#: config/admin-settings.php:1697
+msgid "No"
+msgstr ""
+
+#: config/admin-settings.php:214
+msgid "Order by"
+msgstr ""
+
+#: config/admin-settings.php:216
+msgid "Sorting criteria."
+msgstr ""
+
+#: config/admin-settings.php:224
+msgid "Title"
+msgstr ""
+
+#: config/admin-settings.php:230 includes/class-guest-author.php:57
+msgid "Date"
+msgstr ""
+
+#: config/admin-settings.php:236
+msgid "Modified"
+msgstr ""
+
+#: config/admin-settings.php:242
+msgid "Comment count"
+msgstr ""
+
+#: config/admin-settings.php:248
+msgid "Random order"
+msgstr ""
+
+#: config/admin-settings.php:256
+msgid "Order"
+msgstr ""
+
+#: config/admin-settings.php:258
+msgid "Sorting order."
+msgstr ""
+
+#: config/admin-settings.php:266
+msgid "Ascending order"
+msgstr ""
+
+#: config/admin-settings.php:272
+msgid "Descending order"
+msgstr ""
+
+#: config/admin-settings.php:280
+msgid "Number of posts"
+msgstr ""
+
+#: config/admin-settings.php:282
+msgid "Number of related posts to show."
+msgstr ""
+
+#: config/admin-settings.php:290
+msgid "2"
+msgstr ""
+
+#: config/admin-settings.php:296
+msgid "3"
+msgstr ""
+
+#: config/admin-settings.php:302
+msgid "4"
+msgstr ""
+
+#: config/admin-settings.php:308
+msgid "5"
+msgstr ""
+
+#: config/admin-settings.php:314
+msgid "6"
+msgstr ""
+
+#: config/admin-settings.php:320
+msgid "7"
+msgstr ""
+
+#: config/admin-settings.php:326
+msgid "8"
+msgstr ""
+
+#: config/admin-settings.php:336
+msgid "Guest author archive pages"
+msgstr ""
+
+#: config/admin-settings.php:344
+msgid "Enable guest archive"
+msgstr ""
+
+#: config/admin-settings.php:346
+msgid ""
+"Whether to enable the use of guest author archive pages. Disabling this "
+"option, author name link is disabled."
+msgstr ""
+
+#: config/admin-settings.php:368
+msgid "Permalink"
+msgstr ""
+
+#: config/admin-settings.php:370
+msgid ""
+"Permastruct to add after your installation URI and before the slug set below."
+msgstr ""
+
+#: config/admin-settings.php:378
+msgid "Slug"
+msgstr ""
+
+#: config/admin-settings.php:380
+msgid "Part of the permalink that identifies your author archive page."
+msgstr ""
+
+#: config/admin-settings.php:388
+msgid "Template"
+msgstr ""
+
+#: config/admin-settings.php:390
+msgid "Template to be used by guest author archive pages."
+msgstr ""
+
+#: config/admin-settings.php:400 config/admin-settings.php:408
+msgid "Social networks"
+msgstr ""
+
+#: config/admin-settings.php:410
+msgid ""
+"There are many social networking websites out there and this plugin allows "
+"you to link to the most popular. Not to glut the edit page, choose the ones "
+"you want to be able to configure."
+msgstr ""
+
+#: config/admin-settings.php:418 includes/class-guest-author.php:587
+msgid "Twitter"
+msgstr ""
+
+#: config/admin-settings.php:423 includes/class-guest-author.php:595
+msgid "Facebook"
+msgstr ""
+
+#: config/admin-settings.php:428 includes/class-guest-author.php:603
+msgid "Linkedin"
+msgstr ""
+
+#: config/admin-settings.php:433
+msgid "Google+"
+msgstr ""
+
+#: config/admin-settings.php:438 includes/class-guest-author.php:629
+msgid "Youtube"
+msgstr ""
+
+#: config/admin-settings.php:443 includes/class-guest-author.php:637
+msgid "Pinterest"
+msgstr ""
+
+#: config/admin-settings.php:448 includes/class-guest-author.php:645
+msgid "Tumblr"
+msgstr ""
+
+#: config/admin-settings.php:453 includes/class-guest-author.php:653
+msgid "Instagram"
+msgstr ""
+
+#: config/admin-settings.php:458 includes/class-guest-author.php:661
+msgid "Slideshare"
+msgstr ""
+
+#: config/admin-settings.php:463 includes/class-guest-author.php:679
+msgid "Xing"
+msgstr ""
+
+#: config/admin-settings.php:468 includes/class-guest-author.php:697
+msgid "Renren"
+msgstr ""
+
+#: config/admin-settings.php:473 includes/class-guest-author.php:705
+msgid "Vk"
+msgstr ""
+
+#: config/admin-settings.php:478 includes/class-guest-author.php:713
+msgid "Flickr"
+msgstr ""
+
+#: config/admin-settings.php:483 includes/class-guest-author.php:721
+msgid "Vine"
+msgstr ""
+
+#: config/admin-settings.php:488 includes/class-guest-author.php:729
+msgid "Meetup"
+msgstr ""
+
+#: config/admin-settings.php:493 includes/class-guest-author.php:737
+msgid "Weibo"
+msgstr ""
+
+#: config/admin-settings.php:498
+msgid "Deviantart"
+msgstr ""
+
+#: config/admin-settings.php:503
+msgid "Stumbleupon"
+msgstr ""
+
+#: config/admin-settings.php:508 includes/class-guest-author.php:761
+msgid "MySpace"
+msgstr ""
+
+#: config/admin-settings.php:513 includes/class-guest-author.php:769
+msgid "Yelp"
+msgstr ""
+
+#: config/admin-settings.php:518 includes/class-guest-author.php:777
+msgid "Mixi"
+msgstr ""
+
+#: config/admin-settings.php:523 includes/class-guest-author.php:785
+msgid "SoundCloud"
+msgstr ""
+
+#: config/admin-settings.php:528
+msgid "Last fm"
+msgstr ""
+
+#: config/admin-settings.php:533 includes/class-guest-author.php:801
+msgid "Foursquare"
+msgstr ""
+
+#: config/admin-settings.php:538 includes/class-guest-author.php:809
+msgid "Spotify"
+msgstr ""
+
+#: config/admin-settings.php:543 includes/class-guest-author.php:817
+msgid "Vimeo"
+msgstr ""
+
+#: config/admin-settings.php:548 includes/class-guest-author.php:825
+msgid "Dailymotion"
+msgstr ""
+
+#: config/admin-settings.php:553 includes/class-guest-author.php:833
+msgid "Reddit"
+msgstr ""
+
+#: config/admin-settings.php:562
+msgid "Shortcodes"
+msgstr ""
+
+#: config/admin-settings.php:570
+msgid "Enable in text widgets"
+msgstr ""
+
+#: config/admin-settings.php:572
+msgid "Whether to enable the use of shortcodes in text widgets."
+msgstr ""
+
+#: config/admin-settings.php:596
+msgid "Metadata"
+msgstr ""
+
+#: config/admin-settings.php:604
+msgid "Open Graph"
+msgstr ""
+
+#: config/admin-settings.php:606
+msgid ""
+"Whether to add Open Graph metadata for author details (useful for rich "
+"snippets)."
+msgstr ""
+
+#: config/admin-settings.php:628
+msgid "Google Authorship"
+msgstr ""
+
+#: config/admin-settings.php:630
+msgid ""
+"Whether to add Google Authorship metadata for author details (useful for "
+"rich snippets)."
+msgstr ""
+
+#: config/admin-settings.php:652
+msgid "Facebook Authorship"
+msgstr ""
+
+#: config/admin-settings.php:654
+msgid ""
+"Whether to add Facebook Authorship metadata for author details (useful for "
+"rich snippets)."
+msgstr ""
+
+#: config/admin-settings.php:678
+msgid "Admin menu"
+msgstr ""
+
+#: config/admin-settings.php:686
+msgid "Menu item"
+msgstr ""
+
+#: config/admin-settings.php:688
+msgid "Choose where to add the \"Guest authors\" link in the admin menu."
+msgstr ""
+
+#: config/admin-settings.php:696
+msgid "Top level"
+msgstr ""
+
+#: config/admin-settings.php:702
+msgid "Users"
+msgstr ""
+
+#: config/admin-settings.php:708
+msgid "Posts"
+msgstr ""
+
+#: config/admin-settings.php:714
+msgid "Pages"
+msgstr ""
+
+#: config/admin-settings.php:724
+msgid "Uninstalling"
+msgstr ""
+
+#: config/admin-settings.php:732
+msgid "Keep configuration?"
+msgstr ""
+
+#: config/admin-settings.php:734
+msgid "Whether to keep plugin configuration settings upon plugin uninstalling."
+msgstr ""
+
+#: config/admin-settings.php:756
+msgid "Keep data?"
+msgstr ""
+
+#: config/admin-settings.php:758
+msgid "Whether to keep plugin related data upon plugin uninstalling."
+msgstr ""
+
+#: config/admin-settings.php:785
+msgid "Box"
+msgstr ""
+
+#: config/admin-settings.php:792
+msgid "Display settings"
+msgstr ""
+
+#: config/admin-settings.php:801
+msgid "Show by default"
+msgstr ""
+
+#: config/admin-settings.php:803
+msgid ""
+"Whether to show the authorship box by default. This setting is overridden by "
+"post configuration."
+msgstr ""
+
+#: config/admin-settings.php:811
+msgid "Yes, on all posts and pages"
+msgstr ""
+
+#: config/admin-settings.php:817
+msgid "Only on posts [PREMIUM]"
+msgstr ""
+
+#: config/admin-settings.php:817
+msgid "Only on posts"
+msgstr ""
+
+#: config/admin-settings.php:823
+msgid "Only on pages [PREMIUM]"
+msgstr ""
+
+#: config/admin-settings.php:823
+msgid "Only on pages"
+msgstr ""
+
+#: config/admin-settings.php:829
+msgid "No, let me choose where to display it"
+msgstr ""
+
+#: config/admin-settings.php:837
+msgid "Position"
+msgstr ""
+
+#: config/admin-settings.php:839
+msgid "Whether to show the authorship box above or below post content."
+msgstr ""
+
+#: config/admin-settings.php:847
+msgid "Above content"
+msgstr ""
+
+#: config/admin-settings.php:853
+msgid "Below content"
+msgstr ""
+
+#: config/admin-settings.php:861
+msgid "Hide if no description"
+msgstr ""
+
+#: config/admin-settings.php:863
+msgid ""
+"Whether to hide the authorship box if the author has no biographical "
+"information to show."
+msgstr ""
+
+#: config/admin-settings.php:885
+msgid "Layout"
+msgstr ""
+
+#: config/admin-settings.php:887
+msgid "Template to be used by the authorship box."
+msgstr ""
+
+#: config/admin-settings.php:895 config/admin-settings.php:1446
+msgid "Default"
+msgstr ""
+
+#: config/admin-settings.php:901
+msgid "Default RTL [PREMIUM]"
+msgstr ""
+
+#: config/admin-settings.php:901
+msgid "Default RTL"
+msgstr ""
+
+#: config/admin-settings.php:907
+msgid "Tabbed"
+msgstr ""
+
+#: config/admin-settings.php:913
+msgid "Ribbon [PREMIUM]"
+msgstr ""
+
+#: config/admin-settings.php:913
+msgid "Ribbon"
+msgstr ""
+
+#: config/admin-settings.php:919
+msgid "Ribbon RTL [PREMIUM]"
+msgstr ""
+
+#: config/admin-settings.php:919
+msgid "Ribbon RTL"
+msgstr ""
+
+#: config/admin-settings.php:929
+msgid "Box styling"
+msgstr ""
+
+#: config/admin-settings.php:938
+msgid "Shadow"
+msgstr ""
+
+#: config/admin-settings.php:940
+msgid "Box shadow"
+msgstr ""
+
+#: config/admin-settings.php:948 config/admin-settings.php:1299
+msgid "Left"
+msgstr ""
+
+#: config/admin-settings.php:954 config/admin-settings.php:1305
+msgid "Right"
+msgstr ""
+
+#: config/admin-settings.php:960 config/admin-settings.php:990
+#: config/admin-settings.php:1038 config/admin-settings.php:1539
+msgid "None"
+msgstr ""
+
+#: config/admin-settings.php:968
+msgid "Border"
+msgstr ""
+
+#: config/admin-settings.php:970
+msgid "Box border"
+msgstr ""
+
+#: config/admin-settings.php:978 config/admin-settings.php:1527
+msgid "Thin"
+msgstr ""
+
+#: config/admin-settings.php:984 config/admin-settings.php:1533
+msgid "Thick"
+msgstr ""
+
+#: config/admin-settings.php:998
+msgid "Border color"
+msgstr ""
+
+#: config/admin-settings.php:1000
+msgid "Box border color"
+msgstr ""
+
+#: config/admin-settings.php:1007
+msgid "Background color"
+msgstr ""
+
+#: config/admin-settings.php:1009
+msgid "Box background color"
+msgstr ""
+
+#: config/admin-settings.php:1016
+msgid "Image style"
+msgstr ""
+
+#: config/admin-settings.php:1018
+msgid "Image shape style."
+msgstr ""
+
+#: config/admin-settings.php:1026
+msgid "Rounded"
+msgstr ""
+
+#: config/admin-settings.php:1032 config/admin-settings.php:1458
+msgid "Circled"
+msgstr ""
+
+#: config/admin-settings.php:1046
+msgid "Default image"
+msgstr ""
+
+#: config/admin-settings.php:1048
+msgid "Image to show if none uploaded and no gravatar configured."
+msgstr ""
+
+#: config/admin-settings.php:1056
+msgid "Blank"
+msgstr ""
+
+#: config/admin-settings.php:1062
+msgid "Mistery man"
+msgstr ""
+
+#: config/admin-settings.php:1068
+msgid "Author acronym [PREMIUM]"
+msgstr ""
+
+#: config/admin-settings.php:1068
+msgid "Author acronym"
+msgstr ""
+
+#: config/admin-settings.php:1076 config/admin-settings.php:1078
+msgid "Acronym text color"
+msgstr ""
+
+#: config/admin-settings.php:1085
+msgid "Acronym bg color"
+msgstr ""
+
+#: config/admin-settings.php:1087
+msgid "Acronym background color"
+msgstr ""
+
+#: config/admin-settings.php:1094
+msgid "Name font size"
+msgstr ""
+
+#: config/admin-settings.php:1096
+msgid "Font size to display author name."
+msgstr ""
+
+#: config/admin-settings.php:1104 config/admin-settings.php:1167
+#: config/admin-settings.php:1230 config/admin-settings.php:1383
+msgid "Biggest"
+msgstr ""
+
+#: config/admin-settings.php:1110 config/admin-settings.php:1173
+#: config/admin-settings.php:1236 config/admin-settings.php:1389
+msgid "Bigger"
+msgstr ""
+
+#: config/admin-settings.php:1116 config/admin-settings.php:1179
+#: config/admin-settings.php:1242 config/admin-settings.php:1395
+msgid "Big"
+msgstr ""
+
+#: config/admin-settings.php:1122 config/admin-settings.php:1185
+#: config/admin-settings.php:1248 config/admin-settings.php:1323
+#: config/admin-settings.php:1401
+msgid "Normal"
+msgstr ""
+
+#: config/admin-settings.php:1128 config/admin-settings.php:1191
+#: config/admin-settings.php:1254 config/admin-settings.php:1407
+msgid "Small"
+msgstr ""
+
+#: config/admin-settings.php:1134 config/admin-settings.php:1197
+#: config/admin-settings.php:1260 config/admin-settings.php:1413
+msgid "Smaller"
+msgstr ""
+
+#: config/admin-settings.php:1140 config/admin-settings.php:1203
+#: config/admin-settings.php:1266 config/admin-settings.php:1419
+msgid "Smallest"
+msgstr ""
+
+#: config/admin-settings.php:1148
+msgid "Name color"
+msgstr ""
+
+#: config/admin-settings.php:1150
+msgid "Color to display author name."
+msgstr ""
+
+#: config/admin-settings.php:1157
+msgid "Meta font size"
+msgstr ""
+
+#: config/admin-settings.php:1159
+msgid "Font size to display author metadata."
+msgstr ""
+
+#: config/admin-settings.php:1211
+msgid "Meta color"
+msgstr ""
+
+#: config/admin-settings.php:1213
+msgid "Color to display author metadata."
+msgstr ""
+
+#: config/admin-settings.php:1220
+msgid "Bio font size"
+msgstr ""
+
+#: config/admin-settings.php:1222
+msgid "Font size to display author bio."
+msgstr ""
+
+#: config/admin-settings.php:1274
+msgid "Bio color"
+msgstr ""
+
+#: config/admin-settings.php:1276
+msgid "Color to display author bio."
+msgstr ""
+
+#: config/admin-settings.php:1283
+msgid "Bio text align"
+msgstr ""
+
+#: config/admin-settings.php:1285
+msgid "Text alignment to display author bio."
+msgstr ""
+
+#: config/admin-settings.php:1293
+msgid "Justify"
+msgstr ""
+
+#: config/admin-settings.php:1313
+msgid "Bio text style"
+msgstr ""
+
+#: config/admin-settings.php:1315
+msgid "Text style to display author bio."
+msgstr ""
+
+#: config/admin-settings.php:1329
+msgid "Italics"
+msgstr ""
+
+#: config/admin-settings.php:1335
+msgid "Bold"
+msgstr ""
+
+#: config/admin-settings.php:1341
+msgid "Italics-Bold"
+msgstr ""
+
+#: config/admin-settings.php:1349
+msgid "Show social icons"
+msgstr ""
+
+#: config/admin-settings.php:1351
+msgid "Whether to show social icons."
+msgstr ""
+
+#: config/admin-settings.php:1373
+msgid "Social icons size"
+msgstr ""
+
+#: config/admin-settings.php:1375
+msgid "Size to display social icons."
+msgstr ""
+
+#: config/admin-settings.php:1427
+msgid "Social icons color"
+msgstr ""
+
+#: config/admin-settings.php:1429
+msgid "Color to display social icons."
+msgstr ""
+
+#: config/admin-settings.php:1436
+msgid "Social icons style"
+msgstr ""
+
+#: config/admin-settings.php:1438
+msgid "Style to display social icons."
+msgstr ""
+
+#: config/admin-settings.php:1452
+msgid "Squared"
+msgstr ""
+
+#: config/admin-settings.php:1464
+msgid "Boxed"
+msgstr ""
+
+#: config/admin-settings.php:1470
+msgid "Branded"
+msgstr ""
+
+#: config/admin-settings.php:1476
+msgid "Branded squared"
+msgstr ""
+
+#: config/admin-settings.php:1482
+msgid "Branded squared reverse"
+msgstr ""
+
+#: config/admin-settings.php:1488
+msgid "Branded circled"
+msgstr ""
+
+#: config/admin-settings.php:1494
+msgid "Branded circled reverse"
+msgstr ""
+
+#: config/admin-settings.php:1500
+msgid "Branded boxed"
+msgstr ""
+
+#: config/admin-settings.php:1508
+msgid "Bottom bg color"
+msgstr ""
+
+#: config/admin-settings.php:1510
+msgid "Bottom background color."
+msgstr ""
+
+#: config/admin-settings.php:1517
+msgid "Bottom border"
+msgstr ""
+
+#: config/admin-settings.php:1519
+msgid "Bottom border width."
+msgstr ""
+
+#: config/admin-settings.php:1547
+msgid "Bottom border color"
+msgstr ""
+
+#: config/admin-settings.php:1549
+msgid "Bottom border color."
+msgstr ""
+
+#: config/admin-settings.php:1561
+msgid "Labels"
+msgstr ""
+
+#: config/admin-settings.php:1568
+msgid "Frontend labels"
+msgstr ""
+
+#: config/admin-settings.php:1569
+msgid ""
+"Customize the text displayed on the frontend to your liking or your language."
+msgstr ""
+
+#: config/admin-settings.php:1576 public/views/parts/author-box-meta.php:19
+#: public/views/parts/tabbed-author-box-meta.php:18
+msgid "at"
+msgstr ""
+
+#: config/admin-settings.php:1584 public/views/parts/author-box-meta.php:33
+#: public/views/parts/tabbed-author-box-meta.php:26
+msgid "Website"
+msgstr ""
+
+#: config/admin-settings.php:1592 public/views/parts/author-box-meta.php:45
+#: public/views/parts/author-box-meta.php:64
+msgid "+ posts"
+msgstr ""
+
+#: config/admin-settings.php:1600 public/views/parts/author-box-meta.php:45
+msgid "Bio"
+msgstr ""
+
+#: config/admin-settings.php:1608 public/views/html-tabbed-author-box.php:30
+msgid "About the author"
+msgstr ""
+
+#: config/admin-settings.php:1636
+msgid "Credentials"
+msgstr ""
+
+#: config/admin-settings.php:1637
+#, php-format
+msgid ""
+"Insert your license credentials to make the plugin work, you will find them "
+"by logging in %sto your account%s."
+msgstr ""
+
+#: config/admin-settings.php:1644
+msgid "License Key"
+msgstr ""
+
+#: config/admin-settings.php:1646
+msgid "The key we provided upon premium plugin purchase."
+msgstr ""
+
+#: config/admin-settings.php:1658
+msgid "License email"
+msgstr ""
+
+#: config/admin-settings.php:1660
+msgid "The email you used to purchase the premium license."
+msgstr ""
+
+#: config/admin-settings.php:1674
+msgid "Deactivation"
+msgstr ""
+
+#: config/admin-settings.php:1675
+#, php-format
+msgid ""
+"Choose whether to deactivate the licence key upon plugin deactivation. "
+"Deactivating the license releases it so it can be used on another website "
+"but also removes it from this one, so should you reactivate the plugin, you "
+"will need to set again your credentials. %sRegardless of the value of this "
+"setting, the license will be released when uninstalling the plugin."
+msgstr ""
+
+#: config/admin-settings.php:1682
+msgid "Keep on deactivation"
+msgstr ""
+
+#: config/admin-settings.php:1684
+msgid "Whether to keep license credentials upon plugin deactivation."
+msgstr ""
+
+#: config/admin-settings.php:1705
+msgid "Deactivate license"
+msgstr ""
+
+#: config/admin-settings.php:1707
+msgid ""
+"Deactivates your premium license so you can use it on another installation."
+msgstr ""
+
+#: config/admin-settings.php:1712
+msgid "Deactivate now"
+msgstr ""
+
+#: config/admin-settings.php:1724
+msgid "Support"
+msgstr ""
+
+#: config/admin-settings.php:1741
+msgid "About"
+msgstr ""
+
+#: includes/class-custom-profile.php:51
+msgid "Upload New Image"
+msgstr ""
+
+#: includes/class-custom-profile.php:52
+msgid "Change Current Image"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/class-custom-profile.php:61
+#: includes/common/class.settings-page.php:64
+#: includes/common/class.settings-page.php:72
+#: includes/common/class.settings-page.php:77
+#: includes/common/class.settings-page.php:82
+#: includes/common/class.settings-page.php:87
+#: includes/common/class.settings-page.php:92
+#: includes/common/class.settings-page.php:97
+#: includes/common/class.settings-page.php:102
+#: includes/common/class.settings-page.php:107
+#: includes/common/class.settings-page.php:112
+#: includes/common/class.settings-page.php:118
+#: includes/common/class.settings-page.php:155
+msgid "Molongui Authorship"
+msgstr ""
+
+#: includes/class-custom-profile.php:66
+msgid "Profile image"
+msgstr ""
+
+#: includes/class-custom-profile.php:73
+msgid "Remove"
+msgstr ""
+
+#: includes/class-custom-profile.php:74
+msgid "Edit"
+msgstr ""
+
+#: includes/class-custom-profile.php:93 includes/class-guest-author.php:502
+msgid "Profile link"
+msgstr ""
+
+#: includes/class-custom-profile.php:98 includes/class-guest-author.php:513
+msgid "Job title"
+msgstr ""
+
+#: includes/class-custom-profile.php:103 includes/class-guest-author.php:54
+#: includes/class-guest-author.php:518
+msgid "Company"
+msgstr ""
+
+#: includes/class-custom-profile.php:108 includes/class-guest-author.php:523
+msgid "Company link"
+msgstr ""
+
+#: includes/class-custom-profile.php:113
+msgid "Email"
+msgstr ""
+
+#: includes/class-custom-profile.php:114
+msgid "Display email publicly in the author box."
+msgstr ""
+
+#: includes/class-custom-profile.php:118
+msgid "Biographical info"
+msgstr ""
+
+#: includes/class-custom-profile.php:124
+msgid "Twitter profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:125 includes/class-guest-author.php:588
+msgid "//www.twitter.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:131
+msgid "Facebook profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:132 includes/class-guest-author.php:596
+msgid "//www.facebook.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:138
+msgid "Linkedin profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:141 includes/class-custom-profile.php:190
+#: includes/class-custom-profile.php:204 includes/class-guest-author.php:608
+#: includes/class-guest-author.php:666 includes/class-guest-author.php:684
+msgid "Premium feature"
+msgstr ""
+
+#: includes/class-custom-profile.php:142 includes/class-custom-profile.php:191
+#: includes/class-custom-profile.php:205
+#, php-format
+msgid "This option is available only in the %spremium version%s of the plugin."
+msgstr ""
+
+#: includes/class-custom-profile.php:144 includes/class-guest-author.php:613
+msgid "//www.linkedin.com/pub/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:152
+msgid "Google+ profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:153 includes/class-guest-author.php:622
+msgid "//plus.google.com/+user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:159
+msgid "Youtube profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:160 includes/class-guest-author.php:630
+msgid "//www.youtube.com/user/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:166
+msgid "Pinterest profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:167 includes/class-guest-author.php:638
+msgid "//www.pinterest.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:173
+msgid "Tumblr profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:174 includes/class-guest-author.php:646
+msgid "//user_name.tumblr.com"
+msgstr ""
+
+#: includes/class-custom-profile.php:180
+msgid "Instagram profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:181 includes/class-guest-author.php:654
+msgid "//instagram.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:187
+msgid "Slideshare profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:193 includes/class-guest-author.php:671
+msgid "//www.slideshare.net/username"
+msgstr ""
+
+#: includes/class-custom-profile.php:201
+msgid "Xing profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:207 includes/class-guest-author.php:689
+msgid "//www.xing.com/profile/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:215
+msgid "Renren profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:216 includes/class-guest-author.php:698
+msgid "//www.renren.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:222
+msgid "Vk profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:223 includes/class-guest-author.php:706
+msgid "//www.vk.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:229
+msgid "Flickr profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:230 includes/class-guest-author.php:714
+msgid "//www.flickr.com/photos/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:236
+msgid "Vine profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:237 includes/class-guest-author.php:722
+msgid "//vine.co/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:243
+msgid "Meetup profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:244 includes/class-guest-author.php:730
+msgid "//www.meetup.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:250
+msgid "Weibo profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:251 includes/class-guest-author.php:738
+msgid "//www.weibo.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:257
+msgid "DeviantArt profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:258 includes/class-guest-author.php:746
+msgid "//user_name.deviantart.com"
+msgstr ""
+
+#: includes/class-custom-profile.php:264
+msgid "StumbleUpon profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:265 includes/class-guest-author.php:754
+msgid "//stumbleupon.com/stumbler/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:271
+msgid "MySpace profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:272 includes/class-guest-author.php:762
+msgid "//myspace.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:278
+msgid "Yelp profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:279 includes/class-guest-author.php:770
+msgid "//www.yelp.com/biz/name"
+msgstr ""
+
+#: includes/class-custom-profile.php:285
+msgid "Mixi profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:286 includes/class-guest-author.php:778
+msgid "//mixi.jp/view_community.pl?id=12345"
+msgstr ""
+
+#: includes/class-custom-profile.php:292
+msgid "SoundCloud profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:293 includes/class-guest-author.php:786
+msgid "//soundcloud.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:299
+msgid "Last.fm profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:300 includes/class-guest-author.php:794
+msgid "//www.last.fm/user/name"
+msgstr ""
+
+#: includes/class-custom-profile.php:306
+msgid "Foursquare profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:307 includes/class-guest-author.php:802
+msgid "//foursquare.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:313
+msgid "Spotify profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:314
+msgid "//play.spotify.com/user/name"
+msgstr ""
+
+#: includes/class-custom-profile.php:320
+msgid "Vimeo profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:321 includes/class-guest-author.php:818
+msgid "//vimeo.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:327
+msgid "Dailymotion profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:328 includes/class-guest-author.php:826
+msgid "//www.dailymotion.com/user_name"
+msgstr ""
+
+#: includes/class-custom-profile.php:334
+msgid "Reddit profile"
+msgstr ""
+
+#: includes/class-custom-profile.php:335 includes/class-guest-author.php:834
+msgid "//www.reddit.com/user/username"
+msgstr ""
+
+#: includes/class-guest-author.php:51
+msgid "Photo"
+msgstr ""
+
+#: includes/class-guest-author.php:53
+msgid "Job position"
+msgstr ""
+
+#: includes/class-guest-author.php:55
+msgid "e-mail"
+msgstr ""
+
+#: includes/class-guest-author.php:56
+msgid "Url"
+msgstr ""
+
+#: includes/class-guest-author.php:104
+msgctxt "post type general name"
+msgid "Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:105
+msgctxt "post type singular name"
+msgid "Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:106 includes/class-guest-author.php:107
+msgid "Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:108
+msgid "All Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:109
+msgctxt "molongui_guestauthor"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-guest-author.php:110
+msgid "Add New Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:111
+msgid "Edit Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:112
+msgid "New Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:113
+msgid "View Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:114
+msgid "Search Guest authors"
+msgstr ""
+
+#: includes/class-guest-author.php:115
+msgid "No guest authors found"
+msgstr ""
+
+#: includes/class-guest-author.php:116
+msgid "No guest authors found in the Trash"
+msgstr ""
+
+#: includes/class-guest-author.php:156
+msgid "Enter guest author name here"
+msgstr ""
+
+#: includes/class-guest-author.php:295
+msgid "Authorship box"
+msgstr ""
+
+#: includes/class-guest-author.php:309
+msgid "Job profile"
+msgstr ""
+
+#: includes/class-guest-author.php:319
+msgid "Social Media"
+msgstr ""
+
+#: includes/class-guest-author.php:373
+msgid "As author, you can choose between a registered user and a guest author:"
+msgstr ""
+
+#: includes/class-guest-author.php:377
+msgid "Registered author"
+msgstr ""
+
+#: includes/class-guest-author.php:383
+msgid "Guest author"
+msgstr ""
+
+#: includes/class-guest-author.php:465
+msgid "Show the authorship box for this post?"
+msgstr ""
+
+#: includes/class-guest-author.php:468
+msgid "Show"
+msgstr ""
+
+#: includes/class-guest-author.php:469
+msgid "Hide"
+msgstr ""
+
+#: includes/class-guest-author.php:503
+msgid "URL the author name will link to. Leave blank to disable link feature."
+msgstr ""
+
+#: includes/class-guest-author.php:504 includes/class-guest-author.php:525
+msgid "//www.example.com/"
+msgstr ""
+
+#: includes/class-guest-author.php:507
+msgid "Email address"
+msgstr ""
+
+#: includes/class-guest-author.php:508
+msgid ""
+"Used to retrieve author's Gravatar if it exists. This field is not displayed "
+"in the front-end unless checkbox below is checked."
+msgstr ""
+
+#: includes/class-guest-author.php:510
+msgid "Display email in the author box."
+msgstr ""
+
+#: includes/class-guest-author.php:514
+msgid ""
+"Name used to describe what the author does for a business or another "
+"enterprise. Leave blank to prevent to display this field in the front-end."
+msgstr ""
+
+#: includes/class-guest-author.php:519
+msgid ""
+"The name of the company the author works for. Leave blank to prevent to "
+"display this field in the front-end."
+msgstr ""
+
+#: includes/class-guest-author.php:524
+msgid "URL the company name will link to. Leave blank to disable link feature."
+msgstr ""
+
+#: includes/class-guest-author.php:621
+msgid "Google +"
+msgstr ""
+
+#: includes/class-guest-author.php:745
+msgid "DeviantArt"
+msgstr ""
+
+#: includes/class-guest-author.php:753
+msgid "StumbleUpon"
+msgstr ""
+
+#: includes/class-guest-author.php:793
+msgid "Last.fm"
+msgstr ""
+
+#: includes/class-guest-author.php:810
+msgid "https://play.spotify.com/user/name"
+msgstr ""
+
+#: includes/class-guest-author.php:847
+#, php-format
+msgid ""
+"%sPremium feature%s. You are using the free version of this plugin. Consider "
+"purchasing the Premium Version to enable this feature."
+msgstr ""
+
+#: includes/class-guest-author.php:1342 includes/class-guest-author.php:1349
+msgid "Preview"
+msgstr ""
+
+#: includes/class-guest-author.php:1351
+msgid "Note"
+msgstr ""
+
+#: includes/class-guest-author.php:1352
+msgid ""
+"Your theme might change how typography, colors and sizes are displayed in "
+"this preview."
+msgstr ""
+
+#: includes/common/class-plugin-system-info.php:136
+#, php-format
+msgid "MOLONGUI - Support report for %s"
+msgstr ""
+
+#: premium/config/update.php:56
+msgid "Molongui Authorship Premium"
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:562
+msgid ""
+"The plugin has been updated, but might have not been reactivated. Please "
+"reactivate it manually if needed."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:563
+msgid "Plugin reactivated successfully."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:581
+#, php-format
+msgid ""
+"The license key for %s has expired. You can reactivate or purchase a license "
+"key from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:594
+#, php-format
+msgid ""
+"The subscription for %s is on-hold. You can reactivate the subscription from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:607
+#, php-format
+msgid ""
+"The subscription for %s has been cancelled. You can renew the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>. A new "
+"license key will be emailed to you after your order has been completed."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:620
+#, php-format
+msgid ""
+"The subscription for %s has expired. You can reactivate the subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:633
+#, php-format
+msgid ""
+"The subscription for %s has been suspended. You can reactivate the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:646
+#, php-format
+msgid ""
+"The subscription for %s is still pending. You can check on the status of the "
+"subscription from your account <a href=\"%s\" target=\"_blank\">dashboard</"
+"a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:659
+#, php-format
+msgid ""
+"The subscription for %s has been placed in the trash and will be deleted "
+"soon. You can purchase a new subscription from your account <a href=\"%s\" "
+"target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:672
+#, php-format
+msgid ""
+"A subscription for %s could not be found. You can purchase a subscription "
+"from your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:685
+#, php-format
+msgid ""
+"A license key for %s could not be found. Maybe you forgot to enter a license "
+"key when setting up %s, or the key was deactivated in your account. You can "
+"reactivate or purchase a license key from your account <a href=\"%s\" target="
+"\"_blank\">dashboard</a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:698
+#, php-format
+msgid ""
+"Download permission for %s has been revoked possibly due to a license key or "
+"subscription expiring. You can reactivate or purchase a license key from "
+"your account <a href=\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:711
+#, php-format
+msgid ""
+"%s has not been activated. Go to the settings page and enter the license key "
+"and license email to activate %s."
+msgstr ""
+
+#: premium/includes/update/class-plugin-update.php:724
+#, php-format
+msgid ""
+"You changed the subscription for %s, so you will need to enter your new API "
+"License Key in the settings page. The License Key should have arrived in "
+"your email inbox, if not you can get it by logging into your account <a href="
+"\"%s\" target=\"_blank\">dashboard</a>."
+msgstr ""
+
+#: public/views/parts/author-box-related.php:28
+#: public/views/parts/tabbed-author-box-related.php:31
+msgid "This author does not have any more posts."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://molongui.amitzy.com/product/authorship"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Give credit to the authors and contributors of your blog by showing their "
+"profile information in a fancy and minimalistic box within the post page."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://molongui.amitzy.com/"
+msgstr ""
